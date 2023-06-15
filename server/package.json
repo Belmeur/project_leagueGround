@@ -18,5 +18,8 @@
     "mongoose": "^6.3.5",
     "utf8": "^3.0.0"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
